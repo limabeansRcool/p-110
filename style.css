@@ -1,39 +1,29 @@
 body
 {
-  color: white;
-  background: rgb(232, 228, 176);
+  color: rgb(0, 0, 0);
+  background: rgb(255, 228, 228);
 }
 span
 {
   font-size: 30px;
 }
-#camera , #cameraResult
+#camera , #result
 {
   border: 2px dashed black;
   width: 350px;
   height: 300px; 
 }
-#resultEmotionName, #resultEmotionName2  
-{
-  color: black;
-}
-.emotionName
-{
-  font-size: 40px;
-}
-.emoji
-{
-  font-size:48px;
-}
+
 .heading {
   font-size:24px;
   letter-spacing:10px;
   text-align:center;
-
+  
 }
 .container{
  margin-top:50px;
  border-radius:50px;
- background-color:burlywood;
+ background-color:rgb(225, 138, 174);
  box-shadow: 5px 5px 35px black;
+ height:670px;
 }
